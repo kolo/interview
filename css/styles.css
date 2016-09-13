@@ -31,3 +31,7 @@ h2 {
 .container:nth-child(odd) {
   background: #fff;
 }
+
+.site-footer p {
+  color: #bbb;
+}
