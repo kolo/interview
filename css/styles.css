@@ -1,0 +1,33 @@
+body {
+  font-family: "Droid Serif", "Georgia", serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+.big-boy {
+  font-size: 3em;
+  text-transform: uppercase;
+}
+
+#homepage-hero {
+  font-family: "Montserrat", sans-serif;
+}
+
+#homepage-hero p{
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.container:nth-child(even) {
+  background: whitesmoke;
+}
+
+.container:nth-child(odd) {
+  background: #fff;
+}
