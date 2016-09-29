@@ -1,1 +1,1 @@
-(https://kolo.github.io/interview/)[Interview]
+[Interview](https://kolo.github.io/interview/)
